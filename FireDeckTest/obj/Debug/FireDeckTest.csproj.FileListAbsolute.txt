@@ -1,0 +1,7 @@
+C:\Users\Nik\Documents\_programming_c#\games\FireDeckTest\FireDeckTest\bin\Debug\FireDeckTest.exe.config
+C:\Users\Nik\Documents\_programming_c#\games\FireDeckTest\FireDeckTest\bin\Debug\FireDeckTest.exe
+C:\Users\Nik\Documents\_programming_c#\games\FireDeckTest\FireDeckTest\bin\Debug\FireDeckTest.pdb
+C:\Users\Nik\Documents\_programming_c#\games\FireDeckTest\FireDeckTest\obj\Debug\FireDeckTest.csprojAssemblyReference.cache
+C:\Users\Nik\Documents\_programming_c#\games\FireDeckTest\FireDeckTest\obj\Debug\FireDeckTest.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\_programming_c#\games\FireDeckTest\FireDeckTest\obj\Debug\FireDeckTest.exe
+C:\Users\Nik\Documents\_programming_c#\games\FireDeckTest\FireDeckTest\obj\Debug\FireDeckTest.pdb
