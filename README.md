@@ -20,7 +20,7 @@ This is the first iteration of a console app that I want to support:
 
 EVERYTHING RECURSIVELY LOOPS IN HANDSELECTION!
 
-  -  Objects/Logic/Stuff needed for TCG Battle System:
+ Objects/Logic/Stuff needed for TCG Battle System:
   -  Card[x] -- templates done
 
   -  Deck[x] - shuffling done
