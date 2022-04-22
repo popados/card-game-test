@@ -9,10 +9,14 @@ namespace FireDeckTest
 
     class Program
     {
+
+        public static int consoleWidth = 200;
         public bool createDeck = true;
         static void Main(string[] args)
         {
-            Console.SetWindowSize(70, 50);
+
+
+            Console.SetWindowSize(150, 50);
             CreateMainStory();
 
             //using lists for each of the areas areas
@@ -37,6 +41,7 @@ namespace FireDeckTest
 
             //these three methods are to be run first
             shuffleFunction(deck, shuffled);
+            Console.SetCursorPosition(consoleWidth/2,0);
             Console.WriteLine("~~~~~~SHUFFLED~~~~~~");
             CommanderInfo(player, enemy);
             createHand(shuffled, startHand);
@@ -93,6 +98,7 @@ namespace FireDeckTest
 
 public static void CreateMainStory()
         {
+            
             Console.WriteLine("    |<--- Trading Card Game! --->|");
             Console.WriteLine("|<--- Press Enter to Continue --->|");
             Console.WriteLine();
